@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kensonza
 - 👀 I’m interested in Developing Web Apps and Computer Games
 - 🌱 I’m currently learning "Angular JS, EF Core, .NET Core MVC and Python Flask"
-- 🌱 knowledgeable in PHP and .NET C#
+- 🌱 knowledgeable in PHP and ASP.NET C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 Email me on kensonza@gmail.com
 
